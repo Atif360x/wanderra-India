@@ -7,6 +7,9 @@ function App() {
   return (
     <main>
     <Hero />
+    {/* <div className='w-[100vw] h-[100vh]'>
+
+    </div> */}
     </main>
   )
 }
